@@ -2,48 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Luiza Barros Reis Soezima
+      value: Albert Einstein
     - name: Date of Birth
-      value: 26th March 1996
+      value: 14th March 1879
     - name: Languages
-      value: Portuguese, English, Spanish, French
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: BSc in Computer Science
-      institution: University of São Paulo, São Paulo, Brazil
-      year: 2019 - 2024
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Scientific Initiation / Private Information Retrieval
-      institution: University of São Paulo, São Paulo, Brazil
-      year: Aug 2023 - Present
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - I aim to enhance the existing protocol FrodoPIR ( https://eprint.iacr.org/2022/981 ), a stateful Private Information Retrieval (PIR) scheme rooted in the
-          learning with errors (LWE) problem. My focus is on refining how the FrodoPIR communicates client-server data.
-        - For the theoretical work, I had to dove into a few specific topics such as the GSW scheme, TFHE(Fast Fully Homomorphic Encryption over the Torus) and DGHV(Dijk-
-          Gentry-Halevi-Vaikutanathan) schemes, and the mathematical problems used to construct them, i.e., the LWE(Learning with errors) and AGCD(Approximate Greatest
-          Common Divisor) problems.
-      supervisor: Prof. Hilder Vitor Lima Pereira
-
-    - title: Scientific Initiation / Machine Learning for Text Classification
-      institution: University of São Paulo, São Paulo, Brazil and National Deputies Chamber, Justice Court of São Paulo
-      year: Mar 2021 - Mar 2022
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-        - The project is a bilateral agreement between the University of São Paulo and the São Paulo State Justice Court (TJSP) to create an Artificial Intelligence that makes Natural
-          Language Processing tasks on the Brazilian Legal court. My main work was to deal with machine learning techniques and do deep research on them and their applicability
-          in our domain, testing and adapting them to enhance our results. My tasks are the following:
-        - Article mapping for machine learning techniques applied to named entity recognition.
-        - Article survey for BERT and Information Retrieval Techniques.
-        - Worked on inconsistency verification in the database that caused problems with preprocessing results.
-        - Working on Entities Annotation to create a new Legal Portuguese Corpus. Targeting something new and without any previous publication.
-        - Working on a revision article with other 3 PhDs of Named Entity Recognition applied in Portuguese and Legal Domain. It targets something new and without
-          any previous publication.
-        - Working with an interdisciplinary team of politicians, computer engineers and computer scientists.
-        - Scientific initiation with recognized scholarship.
-        - Publication: UlyssesNER-Br: A Corpus of Brazilian Legislative Documents for Named Entity Recognition: https://link.springer.com/chapter/10.1007/978-3-030-98305-5_1
-      supervisor: Prof. André Carlos Ponce de Leon Ferreira de Carvalho
+        - Description 1.
+        - Description 2.
 
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
