@@ -74,4 +74,7 @@ What makes you a distinguished mind is not constantly being great but doing the 
 
 `E-mail` reisbs (dot) luiza (at) gmail (dot) com
 
+`E-mail` lbrsoezima (at) usp (dot) br
+
+
 
