@@ -123,10 +123,10 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My Academic Adventures # blog_name will be displayed in your blog page
-blog_description: Welcome to my Academic Adventures, where knowledge meets curiosity! 
+blog_name: My Academic Adventures and Random Reflections # blog_name will be displayed in your blog page
+blog_description: Welcome to my Academic Adventures and Random Reflections, where knowledge meets curiosity! 
                   Join me on a journey through theoretical curiosities and various topics. 
-                  Maybe you will find a few personal reflections, but this blog is a bit of my learning journer.
+                  Maybe you will find a few personal stuff, but this blog is a bit of my life and learning journey.
 permalink: /blog/:year/:title/
 
 # Pagination
