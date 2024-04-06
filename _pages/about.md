@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ime.usp.br/'>Instituto de Matemática e Estatíst
 
 profile:
   align: right
-  image: me.jpg
+  image: me.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>That's me at IME-USP :)</p>
