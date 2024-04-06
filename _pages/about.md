@@ -27,24 +27,14 @@ Currently I am working and studying more about FHE(Fully Homomorphic Encryption)
 
 I wish to pursue a successful academic career by obtaining a master’s and a Ph.D. in cryptography and cybersecurity. 
 
-I am committed to acquiring specialized knowledge and engaging in cutting-edge research addressing contemporary cryptographic protocol and technique challenges. 
-
-I aspire to gain expertise and actively engage with the academic community through publications, collaborations, and mentorship, leaving a lasting impact on cryptography. 
-
-This journey is not merely about personal achievement but advancing the collective knowledge base and fostering the next generation of academics and professionals in cybersecurity. 
-
-In the long term, I aim to have the respect and competence to be a conference chair, paper reviser, and notable lecturer.
-
 I am also eager to be a role model for young female scientists from Latin America, especially from Brazil. I want to inspire, guide, and help them overcome educational challenges. 
 
-I am aware that by sharing my experiences, participating in conferences, and advocating for equitable opportunities, I will be able to amplify the voices of female scientists in the region, fostering diversity, inclusion, and empowerment in the global scientific community.
+I am aware that by sharing my experiences, participating in conferences, and advocating for equitable opportunities, I will be able to amplify the voices of female scientists in LATAM region, fostering diversity, inclusion, and empowerment in the global scientific community.
 
 
 **<span style="color:#C61AAE;">A bit more about me</span>**
 
 Besides crypto, maths and computer science, I love music. I have played classical piano since I was 5 years old and I strongly believe that music is one of the most touching experessions of the human soul.
-
-I pursue a real passion for science and novelty to my academic pursuits. I have actively attended several international STEM programs among underrepresented groups. 
 
 Facing a world where women and Latin Americans in science are a minority boosts my commitment to broaden my horizons and pursue inclusivity daily, trying to reduce the diversity gap in science and technology. 
 
