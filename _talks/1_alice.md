@@ -4,7 +4,6 @@ title: Introduction to Cryptography
 description: As aventuras de Alice no País da Criptografia (in portuguese) 
 img: assets/img/symcomp-main.png
 importance: 1
-category: work
 related_publications: false
 ---
 
