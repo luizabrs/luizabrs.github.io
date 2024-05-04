@@ -4,7 +4,7 @@ title: Capstone Project
 description: This is a quick reading about my undergraduation thesis project 
 img: assets/img/ffpir5.png
 importance: 1
-category: work
+category: projects
 related_publications: false
 ---
 
