@@ -15,6 +15,11 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+
+<head>
+  <meta name="google-site-verification" content="xHQ2tDvgzzOVfZGHzuiNBpF6C9kpQbyvn2jMIAsUxbA" />
+</head>
+
 Hello there! :smiley:
 Welcome to my homepage! :wave:
 
