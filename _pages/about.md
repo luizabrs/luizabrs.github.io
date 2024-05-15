@@ -21,7 +21,7 @@ Welcome to my homepage! :wave:
 
 I am Luiza Soezima, and I am currently finishing my BSc. in Computer Science at IME-USP in São Paulo, Brazil (I am also from São Paulo, Brazil).
 
-Currently I am working and studying more about FHE(Fully Homomorphic Encryption) and Private Information Retrieval(PIR).
+Currently I am working and studying more about FHE(Fully Homomorphic Encryption) and PIR(Private Information Retrieval).
 
 
 **<span style="color:#C61AAE;">My goals</span>**
