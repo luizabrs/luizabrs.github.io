@@ -21,5 +21,5 @@ These books were written to sparkle  :sparkles: curiosity of cryptography and cy
 </swiper-container>
 
 You can download both books here:
-- [Aprendendo Juntos - Criptografia para Crianças](/assets/pdf/FINAL-Aprendendo_Juntos_Criptografia_para_Crianças.pdf)
-- [Aprendendo Juntos - Cibersegurança para Crianças](/assets/pdf/FINAL-Aprendendo_Juntos_Cibersegurança_para_Crianças.pdf)
+- [Aprendendo Juntos - Criptografia para Crianças](/assets/pdf/FINAL-Aprendendo_Juntos_Criptografia_para_Criancas.pdf)
+- [Aprendendo Juntos - Cibersegurança para Crianças](/assets/pdf/FINAL-Aprendendo_Juntos_Cibersegurança_para_Criancas.pdf)
