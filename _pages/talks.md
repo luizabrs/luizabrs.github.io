@@ -17,19 +17,20 @@ nav_order: 7
     </div>
 </div>
 <div class="caption" style="font-family: 'Courier New', monospace;">
-    Thats me at Vulcano Antisana in Ecuador and presenting at the Computer Scince Symposium.
+    Thats me at Vulcano Antisana in Ecuador and presenting at the Computer Science Symposium.
 </div>
 
 
 ## 2024
 
 **<span style="color:#C61AAE;">PIR + FHE: Chip’n’Dale of privacy (A survey on PIR and FHE)</span>**
-<small>Happening soon</small>
-- CrossFyre 2024, an affiliated event to Eurocrypt
+- CrossFyre 2024, an affiliated event to Eurocrypt 2024
 - ETH Zürich, Zürich, Switzerland
 - May 2024
+- <p>(<a href="/assets/pdf/Presentation-PIR+FHE:Chip’n’DaleOfprivacy.pdf" download> Slides</a>)</p>
 
-**<span style="color:#C61AAE;">An introduction to cryptography</span>**
+**<span style="color:#C61AAE;">The Adventures of Alice in Cryptoland - An introduction to cryptography</span>**
 - Computer Science Symposium
-- University of São Paulo, São Paulo - SP, Brazil
+- University of São Paulo, São Paulo, Brazil
 - April 2024
+- <p>(<a href="/assets/pdf/Alice.pdf" download> Slides</a>)</p>
