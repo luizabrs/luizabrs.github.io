@@ -50,6 +50,7 @@ What makes you a distinguished mind is not constantly being great but doing the 
 - Fully Homomorphic Encryption
 - Multiparty Computation
 - Secure Messaging
+- Private Information Retrieval
 
 **<span style="color:#C61AAE;">My other random interests</span>**
 
