@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding the Debian packaging system (or at least trying to)[Part 1]
+title: Understanding the Debian packaging system (or at least trying to) [Part 1]
 date: 2024-06-04 07:14:00
 description: This post is about the debian package system and my experience trying to contribute to the project.
 tags:  MAC0470 FLOSS
@@ -11,8 +11,8 @@ This is another post of the series of contributions and experiences through the 
 
 First things first, let's talk about Debian:
 
-## What is ` Debian`?
-Debian is a free and open-source Linux distribution renowned for its stability, security, and extensive software repository. It is actively developed through a community-driven workflow, emphasizing open-source principles. 
+## What is `Debian`?
+Debian is a free and open-source Linux distribution renowned for its stability, security, and extensive software repository. It is actively developed through a community-driven workflow, following many open-source principles. 
 
 Debian's package management system is defined by `apt`, and it simplifies software installation and updates. Debian is the foundation for many other distributions, including Ubuntu, and it supports a wide range of hardware architectures. 
 
@@ -24,7 +24,7 @@ Distributions vary in focus, such as user-friendliness, security, or performance
 
 ### And what's the meaning of `apt`?
 
-Debian `apy`, short for Advanced Package Tool is a package management system used by Debian and its derivatives to handle the installation, update, and removal of software packages. 
+Debian `apt`, short for Advanced Package Tool is a package management system used by Debian and its derivatives to handle the installation, update, and removal of software packages. 
 
 `apt` simplifies all the instalation tree by searching for dependencies and retrieving packages from repositories. It uses various command-line tools, such as `apt-get` and `apt`. Ah, and just for record a doubt that I had for a long time: `apt` is intended to simplify package management for users, while `apt-get` is more suited for scripting and detailed package management tasks, in other words, `apt` is a cuter version of `apt-get`.
 
@@ -148,6 +148,14 @@ Moreover, the Comprehensive Perl Archive Network, long for `cpan` has contribute
 `cpan` is a vast repository of Perl modules, and tools like `dh-make-perl` facilitate the creation of Debian packages from these modules, streamlining the packaging process for Perl software.
 
 Over time, a strong tradition of using Perl for Debian packaging tools has developed, resulting in a wealth of Perl expertise within the Debian community. This tradition, combined with the practical advantages Perl offers, has led to its widespread use and continued importance in the Debian packaging ecosystem.
+
+**P.S.**
+
+Here is the exact reason my root was full on the previous post. It was while I was wrongly (focus on wrongly) installing perl on my Ubuntu. I found out by experience that Perl is extremely heavy.
+
+Perl is considered heavy due to its extensive standard library, legacy code for backward compatibility, and dynamic features that increase memory and CPU usage. 
+
+Also, the interpreter's overhead and complex syntax also contribute to its perceived bloat.
 
 ## Choosing a library and moving on...
 
