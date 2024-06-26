@@ -41,8 +41,9 @@ To contribute, if you have software that you'd like to make more accessible to o
 ### How to contribute?
 
 For this project we will be using **Joenio Marques da Costa** tutorials (in portuguese):
-*[Parte 1: Tutorial de empacotamento Debian](https://joenio.me/tutorial-pacote-debian-parte1/)
-*[Parte 2: Criando o seu próprio pacote Debian](https://joenio.me/tutorial-pacote-debian-parte2/)
+
+- [Parte 1: Tutorial de empacotamento Debian](https://joenio.me/tutorial-pacote-debian-parte1/)
+- [Parte 2: Criando o seu próprio pacote Debian](https://joenio.me/tutorial-pacote-debian-parte2/)
 
 ## Installing Debian Testing via Docker
 
@@ -151,7 +152,7 @@ Over time, a strong tradition of using Perl for Debian packaging tools has devel
 
 **P.S.**
 
-Here is the exact reason my root was full on the previous post. It was while I was wrongly (focus on wrongly) installing perl on my Ubuntu. I found out by experience that Perl is extremely heavy.
+Here is the exact reason my root was full on the previous post. It was while I was wrongly (focus on **wrongly**) installing perl on my Ubuntu and not on the VM or Docker enviroment. I found out by experience that Perl is extremely heavy.
 
 Perl is considered heavy due to its extensive standard library, legacy code for backward compatibility, and dynamic features that increase memory and CPU usage. 
 
