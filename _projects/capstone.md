@@ -9,7 +9,7 @@ related_publications: false
 toc:
   sidebar: left
 ---
-This post is dedicated to my Capstone Project (Trabalho de Conclusão de Curso) for my BSc. in  Computer Science degreee.
+This post is dedicated to my Capstone Project (Trabalho de Conclusão de Curso) for the Computer Science BSc. degree.
 
 
 ## Student and Supervisors
