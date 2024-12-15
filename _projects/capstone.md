@@ -52,7 +52,8 @@ Fully Homomorphic Encryption (FHE) as cryptographic primitive.
 
 ## Monograph
 
-Click there to can download the [monograph](/assets/pdf/monograph.pdf)
+Click  [here](/assets/pdf/monograph.pdf) to download the Monograph
+
 ## Other informations
 
 If you want, you can access my official project website [here](https://www.linux.ime.usp.br/~lbrsoezima/) [To be modified]
