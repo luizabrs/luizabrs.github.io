@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ime.usp.br/'>Instituto de Matemática e Estatística (IME) - Universidade de São Paulo (USP)</a>. Rua do Matão, 1010 – CEP 05508-090 – São Paulo – SP  
+subtitle: 
 
 profile:
   align: right
@@ -19,9 +19,12 @@ social: false # includes social icons at the bottom of the page
 Hello there! :smiley:
 Welcome to my homepage! :wave:
 
-I am Luiza Soezima, and I am currently finishing my BSc. in Computer Science at IME-USP in São Paulo, Brazil (I am also from São Paulo, Brazil).
+I am Luiza Soezima, and I am currently studying the MSc. at Grenoble INP - Université Grenoble Alpes in Grenoble, France. 
 
-Currently I am working and studying more about FHE(Fully Homomorphic Encryption) and PIR(Private Information Retrieval).
+I pursued a BSc. in Computer Science at Instituto de Matemática e Estatística - Universidade de São Paulo, in São Paulo, Brazil (I am also from São Paulo, Brazil) and during the bachelor thesis I
+was supervised by [Hilder Vitor Lima Pereira](https://hilder-vitor.github.io/){: style="color:#C61AAE;"} and [Alfredo Goldman](https://www.ime.usp.br/~gold/new/publications.html){: style="color:#C61AAE;"}.
+
+Currently my main topics of interest are FHE(Fully Homomorphic Encryption), PIR(Private Information Retrieval), PSI(Private Set Intersection) and PSU(Private Set Union). 
 
 
 **<span style="color:#C61AAE;">My goals</span>**

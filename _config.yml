@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Luiza Barros Reis Soezima # the website title (if blank, full name will be used instead)
+title: Luiza Soezima # the website title (if blank, full name will be used instead)
 first_name: Luiza
 middle_name:
 last_name: Soezima
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi, I am Luiza Barros Reis Soezima and this is my personal website. 
+  Hi, I am Luiza Soezima and this is my personal website. 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
