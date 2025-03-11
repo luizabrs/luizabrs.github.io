@@ -28,8 +28,8 @@
       "position": "Research",
       "startDate": "2025-02",
       "endDate": "Today",
-      "summary": "I aim to enhance the existing protocol FrodoPIR ( https://eprint.iacr.org/2022/981 ), a stateful Private Information Retrieval (PIR) scheme rooted in the learning with errors (LWE) problem. My focus is on refining how the FrodoPIR communicates client-server data. For the theoretical work, I had to dove into a few specific topics such as the GSW scheme, TFHE(Fast Fully Homomorphic Encryption over the Torus) and DGHV(Dijk-Gentry-Halevi-Vaikutanathan) schemes, and the mathematical problems used to construct them, i.e., the LWE(Learning with errors) and AGCD(Approximate Greatest Common Divisor) problems"
-    },
+      "summary": "In this project I have been investigating optimal approaches for Private Set Union (PSU) and Private Set Intersection (PSI) in the context of secure multi-party computation. Exploring Fuzzy Matching techniques for set operations, including metric-based matching and their applicability to PSU and PSI. Analyzing the use of Oblivious Key-Value Stores (OKVS) and function secret sharing (FSS) to improve the efficiency of fuzzy private set operations."
+},
     {
       "name": "Scientific Initiation / Private Information Retrieval - University of São Paulo, São Paulo, Brazil",
       "position": "Research",
