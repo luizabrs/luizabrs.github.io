@@ -20,14 +20,14 @@ Hello there! :smiley:
 Welcome to my homepage! :wave:
 
 I am Luiza Soezima, and I am currently studying the MSc. at Grenoble INP - Université Grenoble Alpes in Grenoble, France. I am currently an M2 Research Intern at CASC(Calcul Algébrique et Symbolique, Sécurité, Systèmes Complexes, Codes et Cryptologie) team 
-at[Laboratoire Jean Kuntzmann](https://www-ljk.imag.fr/#header){: style="color:#C61AAE;"} under supervision of 
+at [Laboratoire Jean Kuntzmann](https://www-ljk.imag.fr/#header){: style="color:#C61AAE;"} under supervision of 
 [Jean-Guillaume Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas/){: style="color:#C61AAE;"} and [Aude Maignan](https://membres-ljk.imag.fr/Aude.Maignan/){: style="color:#C61AAE;"}, where the main research topics are Private Set Operations and Fuzzy Matching.
 
-I pursued a BSc. in Computer Science at Instituto de Matemática e Estatística - Universidade de São Paulo, in São Paulo, Brazil (I am also from São Paulo, Brazil) and during the bachelor thesis I
+I pursue a BSc. in Computer Science at Instituto de Matemática e Estatística - Universidade de São Paulo, in São Paulo, Brazil (I am also from São Paulo, Brazil) and during the bachelor thesis I
 was supervised by [Hilder Vitor Lima Pereira](https://hilder-vitor.github.io/){: style="color:#C61AAE;"} and [Alfredo Goldman](https://www.ime.usp.br/~gold/new/){: style="color:#C61AAE;"}, where the main research topics were Fully Homomorphic Encryption and 
 Private Information Retrieval.
 
-Currently my main topics of interest are FHE(Fully Homomorphic Encryption), PIR(Private Information Retrieval), PSI(Private Set Intersection) and PSU(Private Set Union). 
+Currently my main topics of interest are FHE(Fully Homomorphic Encryption), PIR(Private Information Retrieval), OT(Oblivious Transfer), MPC(Multiparty Computation) and Private Set Operations.
 
 
 **<span style="color:#C61AAE;">My goals</span>**
@@ -52,16 +52,17 @@ What makes you a distinguished mind is not constantly being great but doing the 
 **<span style="color:#C61AAE;">My research interests</span>**
 
 - Post-Quantum Cryptography
-- Lattice-Based Cryptography
 - Fully Homomorphic Encryption
 - Multiparty Computation
 - Secure Messaging
-- Private Information Retrieval
+- Private Information Retrieval and Privacy-Preserving Computation
+- Oblivious Transfer
+- Lattice-Based Cryptography
 
 **<span style="color:#C61AAE;">My other random interests</span>**
 
 - Surfing (specially Longboard :surfer:)
-- Learning new languages (currently trying to learn Norwegian)
+- Learning new languages
 - Listening to [Aurora](https://open.spotify.com/playlist/37i9dQZF1DZ06evO15Ttp6?si=9222df7fb10e4cef){: style="color:#C61AAE;"}
 - Linear Algebra
 - FLOSS
