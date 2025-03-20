@@ -17,7 +17,7 @@ nav_order: 7
     </div>
 </div>
 <div class="caption" style="font-family: 'Courier New', monospace;">
-    Thats me at: 1. Vulcano Antisana in Ecuado; 2. Presenting at the Computer Science Symposium.
+    Thats me at: 1. Vulcano Antisana in Ecuador; 2. Presenting at the Computer Science Symposium.
 </div>
 
 

@@ -70,8 +70,14 @@
     {
       "name": "UlyssesNER-Br: A Corpus of Brazilian Legislative Documents for Named Entity Recognition",
       "publisher": "Springer",
-      "releaseDate": "2022-03-16",
+      "releaseDate": "2022",
       "url": "https://link.springer.com/chapter/10.1007/978-3-030-98305-5_1"
+    },
+    {
+      "name": "Practical Semi-Open Chat Groups for Secure Messaging Applications",
+      "publisher": "Cryptology ePrint Archive, Paper 2025/469",
+      "releaseDate": "2025",
+      "url": "https://eprint.iacr.org/2025/469"
     }
   ],
   "languages": [
