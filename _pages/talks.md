@@ -8,17 +8,19 @@ nav_order: 7
 
 ---
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/me2.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/me3.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption" style="font-family: 'Courier New', monospace;">
-    Thats me at: 1. Vulcano Antisana in Ecuador; 2. Presenting at the Computer Science Symposium.
-</div>
+## 2025
+
+**<span style="color:#C61AAE;"> Privacy-Preserving Fuzzy Matching in Practical Contexts</span>**
+- Software Systems Group
+- University of São Paulo, São Paulo, Brazil
+- April 2025
+- <p>(<a href="/assets/pdf/fuzzy-practical.pdf" download>Slides</a>)</p>
+
+**<span style="color:#C61AAE;">How to make different people cooperate without revealing their secrets? (in portuguese)</span>**
+- IMESec Seminar Session
+- University of São Paulo, São Paulo, Brazil
+- April 2025
+- <p>(<a href="/assets/pdf/MPC.pdf" download>Slides</a>)</p>
 
 
 ## 2024
@@ -27,10 +29,10 @@ nav_order: 7
 - CrossFyre 2024, an affiliated event to Eurocrypt 2024
 - ETH Zürich, Zürich, Switzerland
 - May 2024
-- <p>(<a href="/assets/pdf/Presentation-PIR+FHE:Chip’n’DaleOfprivacy.pdf" download> Slides</a>)</p>
+- <p>(<a href="/assets/pdf/Presentation-PIR+FHE:Chip’n’DaleOfprivacy.pdf" download>Slides</a>)</p>
 
-**<span style="color:#C61AAE;">The Adventures of Alice in Cryptoland - An introduction to cryptography</span>**
+**<span style="color:#C61AAE;">The Adventures of Alice in Cryptoland - An introduction to cryptography (in portuguese)</span>**
 - Computer Science Symposium
 - University of São Paulo, São Paulo, Brazil
 - April 2024
-- <p>(<a href="/assets/pdf/Alice.pdf" download> Slides</a>)</p>
+- <p>(<a href="/assets/pdf/Alice.pdf" download>Slides</a>)</p>
