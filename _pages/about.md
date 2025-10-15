@@ -32,7 +32,7 @@ Currently my main topics of interest are PIR (Private Information Retrieval), MP
 
 **<span style="color:#C61AAE;">My goals</span>**
 
-I am eager to be a role model for young female scientists from Latin America, especially from Brazil. I want to inspire, guide, and help them overcome educational challenges. 
+I wish to be a role model for young female scientists from Latin America, especially from Brazil. I want to inspire, guide, and help them overcome educational challenges. 
 
 I am aware that by sharing my experiences, participating in conferences, and advocating for equitable opportunities, I will be able to amplify the voices of female scientists in LATAM region, fostering diversity, inclusion, and empowerment in the global scientific community.
 
