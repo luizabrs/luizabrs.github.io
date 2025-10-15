@@ -27,7 +27,7 @@ I pursue a BSc. in Computer Science at Instituto de Matemática e Estatística -
 was supervised by [Hilder Vitor Lima Pereira](https://hilder-vitor.github.io/){: style="color:#C61AAE;"} and [Alfredo Goldman](https://www.ime.usp.br/~gold/new/){: style="color:#C61AAE;"}, where the main research topics were Fully Homomorphic Encryption and 
 Private Information Retrieval.
 
-Currently my main topics of interest are PIR(Private Information Retrieval), MPC(Secure Multiparty Computation) and Private Set Operations.
+Currently my main topics of interest are PIR (Private Information Retrieval), MPC (Secure Multiparty Computation) and Private Set Operations.
 
 
 **<span style="color:#C61AAE;">My goals</span>**
