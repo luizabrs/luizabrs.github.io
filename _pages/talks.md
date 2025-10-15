@@ -10,6 +10,11 @@ nav_order: 7
 
 ## 2025
 
+**<span style="color:#C61AAE;"> Towards Fuzzy Private Set Union</span>**
+- Aarhus Crypto Seminar
+- Aarhus University, Aarhus, Denmark
+- June 2025
+
 **<span style="color:#C61AAE;"> Privacy-Preserving Fuzzy Matching in Practical Contexts</span>**
 - Software Systems Group
 - University of São Paulo, São Paulo, Brazil
