@@ -19,7 +19,9 @@ social: false # includes social icons at the bottom of the page
 Hello there! :smiley:
 Welcome to my homepage! :wave:
 
-I am Luiza Soezima, and I have a MSc. in Computer Science from ENSIMAG (École nationale supérieure d'informatique et de mathématiques appliquées de Grenoble) - UGA (Université Grenoble Alpes) in the beautiful Grenoble :mountain_snow:, France . My M2 Research was performed at CASC(Calcul Algébrique et Symbolique, Sécurité, Systèmes Complexes, Codes et Cryptologie) team 
+I am Luiza Soezima, and since December 2025 I am a PhD Student at Aarhus University, under the supervision of Diego F. Aranha and Peter Scholl.
+
+Previously, I have completed the MSc. in Computer Science from ENSIMAG (École nationale supérieure d'informatique et de mathématiques appliquées de Grenoble) - UGA (Université Grenoble Alpes) in the beautiful Grenoble :mountain_snow:, France . My M2 Research was performed at CASC(Calcul Algébrique et Symbolique, Sécurité, Systèmes Complexes, Codes et Cryptologie) team 
 at [Laboratoire Jean Kuntzmann](https://www-ljk.imag.fr/#header){: style="color:#C61AAE;"} under supervision of 
 [Jean-Guillaume Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas/){: style="color:#C61AAE;"} and [Aude Maignan](https://membres-ljk.imag.fr/Aude.Maignan/){: style="color:#C61AAE;"}, where the main research topics are Private Set Operations and Fuzzy Matching.
 
