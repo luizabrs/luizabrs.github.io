@@ -4,10 +4,15 @@ title: Capstone Project
 description: This is a quick reading about my undergraduation thesis project 
 img: assets/img/ffpir5.png
 importance: 1
-category: projects
+category: hidden
 related_publications: false
 toc:
   sidebar: left
+nav: false
+search: false
+sitemap: false
+robots: noindex, nofollow
+
 ---
 This post is dedicated to my Capstone Project (Trabalho de Conclusão de Curso) for the Computer Science BSc. degree.
 
