@@ -70,7 +70,7 @@ What makes you a distinguished mind is not constantly being great but doing the 
 
 **<span style="color:#C61AAE;">Contact</span>**
 
-`E-mail` reisbs (dot) luiza (at) gmail (dot) com
+`E-mail` lbrsoezima (at) cs (dot) au (dot) dk
 
 
 
