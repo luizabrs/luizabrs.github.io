@@ -64,6 +64,16 @@
       "studyType": "MSc.",
       "startDate": "2024",
       "endDate": "2025"
+    },
+    {
+      "institution": "Aarhus University",
+      "location": "Aarhus, Denmark",
+      "url": "https://cs.au.dk/research/crypto-and-cybersecurity",
+      "area": "Computer Science",
+      "studyType": "PhD.",
+      "startDate": "2025",
+      "endDate": "2028"
+
     }
   ],
   "publications": [
@@ -78,6 +88,12 @@
       "publisher": "Cryptology ePrint Archive, Paper 2025/469",
       "releaseDate": "2025",
       "url": "https://eprint.iacr.org/2025/469"
+    },
+    {
+      "name": "Fuzzy Private Set Union via Oblivious Key Homomorphic Encryption Retrieval",
+      "publisher": "ArXiV",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2601.20400"
     }
   ],
   "languages": [
