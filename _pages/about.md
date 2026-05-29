@@ -23,50 +23,30 @@ I am Luiza Soezima, and since December 2025 I am a PhD Student at Aarhus Univers
 
 Previously, I completed the MSc. in Computer Science at ENSIMAG (École nationale supérieure d'informatique et de mathématiques appliquées de Grenoble) - UGA (Université Grenoble Alpes) in the beautiful Grenoble :mountain_snow:, France . My M2 Research was performed at CASC(Calcul Algébrique et Symbolique, Sécurité, Systèmes Complexes, Codes et Cryptologie) team 
 at [Laboratoire Jean Kuntzmann](https://www-ljk.imag.fr/#header){: style="color:#C61AAE;"} under supervision of 
-[Jean-Guillaume Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas/){: style="color:#C61AAE;"} and [Aude Maignan](https://membres-ljk.imag.fr/Aude.Maignan/){: style="color:#C61AAE;"}, where the main research topics are Private Set Operations and Fuzzy Matching.
+[Jean-Guillaume Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas/){: style="color:#C61AAE;"} and [Aude Maignan](https://membres-ljk.imag.fr/Aude.Maignan/){: style="color:#C61AAE;"}, where my thesis was titled "Towards Fuzzy Private Set Union".
 
 I pursue a BSc. in Computer Science at Instituto de Matemática e Estatística - Universidade de São Paulo, in the huge São Paulo :cityscape:, Brazil (I am also from São Paulo, Brazil) and during the bachelor thesis I
 was supervised by [Hilder Vitor Lima Pereira](https://hilder-vitor.github.io/){: style="color:#C61AAE;"} and [Alfredo Goldman](https://www.ime.usp.br/~gold/new/){: style="color:#C61AAE;"}, where the main research topics were Fully Homomorphic Encryption and 
 Private Information Retrieval.
 
-Currently my main topics of interest are PIR (Private Information Retrieval), MPC (Secure Multiparty Computation) and Private Set Operations.
+Currently my main topics of interest are Private Information Retrieval and Private Set Operations (with extensions to Fuzzy Matching).
 
 
 **<span style="color:#C61AAE;">My goals</span>**
 
 I wish to be a role model for young female scientists from Latin America, especially from Brazil. I want to inspire, guide, and help them overcome educational challenges. 
 
-I am aware that by sharing my experiences, participating in conferences, and advocating for equitable opportunities, I will be able to amplify the voices of female scientists in LATAM region, fostering diversity, inclusion, and empowerment in the global scientific community.
+I am aware that by sharing my experiences and advocating for equitable opportunities, I will be able to amplify the voices of female scientists in LATAM region, fostering diversity, inclusion, and empowerment in the global scientific community.
 
 
 **<span style="color:#C61AAE;">A bit more about me</span>**
 
-Besides crypto, maths and computer science, I love music. I have played classical piano since I was 5 years old and I strongly believe that music is one of the most touching experessions of the human soul.
+Besides crypto, maths and computer science, I love music. I have played classical piano since I was 5 years old and I strongly believe that music is one of the most touching expressions of the human soul.
 
-Facing a world where women and Latin Americans in science are a minority boosts my commitment to broaden my horizons and pursue inclusivity daily, trying to reduce the diversity gap in science and technology. 
+Through my life experiences, I have learned we must value our sentimental expression and social empathy. 
 
-Through these experiences, I have learned we must value our sentimental expression and social empathy. 
+What makes you a distinguished mind is not constantly being great but doing the best with what you have and striving to better yourself, science and society. :sparkling_heart:
 
-What makes you a distinguished mind is not constantly being great but doing the best with what you have and striving to better society. :sparkling_heart:
-
-**<span style="color:#C61AAE;">My research interests</span>**
-
-
-- Secure Multiparty Computation
-- Secure Messaging
-- Private Information Retrieval and Privacy-Preserving Computation
-- Lattice-Based Cryptography
-- Fully Homomorphic Encryption
-
-**<span style="color:#C61AAE;">My other random interests</span>**
-
-- Surfing (specially Longboard :surfer:)
-- Learning new languages
-- Listening to [Aurora](https://open.spotify.com/playlist/37i9dQZF1DZ06evO15Ttp6?si=9222df7fb10e4cef){: style="color:#C61AAE;"}
-- Linear Algebra
-- FLOSS
-- Linear Optimization
-- Psychology, philosophy and random life reflections
 
 **<span style="color:#C61AAE;">Contact</span>**
 

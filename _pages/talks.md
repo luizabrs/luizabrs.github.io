@@ -11,6 +11,11 @@ nav_order: 7
 ## 2025
 
 **<span style="color:#C61AAE;"> Towards Fuzzy Private Set Union</span>**
+- Séminaire AMAC
+- Laboratoire Jean Kuntzmann - Université Grenoble Alpes, Grenoble, Frace
+- July 2025
+
+**<span style="color:#C61AAE;"> Towards Fuzzy Private Set Union</span>**
 - Aarhus Crypto Seminar
 - Aarhus University, Aarhus, Denmark
 - June 2025
