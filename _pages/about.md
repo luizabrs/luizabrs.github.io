@@ -25,9 +25,7 @@ Previously, I completed the MSc. in Computer Science at ENSIMAG (École national
 at [Laboratoire Jean Kuntzmann](https://www-ljk.imag.fr/#header){: style="color:#C61AAE;"} under supervision of 
 [Jean-Guillaume Dumas](https://membres-ljk.imag.fr/Jean-Guillaume.Dumas/){: style="color:#C61AAE;"} and [Aude Maignan](https://membres-ljk.imag.fr/Aude.Maignan/){: style="color:#C61AAE;"}, where my thesis was titled "Towards Fuzzy Private Set Union".
 
-I pursue a BSc. in Computer Science at Instituto de Matemática e Estatística - Universidade de São Paulo, in the huge São Paulo :cityscape:, Brazil (I am also from São Paulo, Brazil) and during the bachelor thesis I
-was supervised by [Hilder Vitor Lima Pereira](https://hilder-vitor.github.io/){: style="color:#C61AAE;"} and [Alfredo Goldman](https://www.ime.usp.br/~gold/new/){: style="color:#C61AAE;"}, where the main research topics were Fully Homomorphic Encryption and 
-Private Information Retrieval.
+I pursue a BSc. in Computer Science at Instituto de Matemática e Estatística - Universidade de São Paulo, in the huge São Paulo :cityscape:, Brazil (I am also from São Paulo, Brazil).
 
 Currently my main topics of interest are Private Information Retrieval and Private Set Operations (with extensions to Fuzzy Matching).
 
