@@ -29,22 +29,12 @@ I pursue a BSc. in Computer Science at Instituto de Matemática e Estatística -
 
 Currently my main topics of interest are Private Information Retrieval and Private Set Operations (with extensions to Fuzzy Matching).
 
+**<span style="color:#C61AAE;">Service</span>**
 
-**<span style="color:#C61AAE;">My goals</span>**
-
-I wish to be a role model for young female scientists from Latin America, especially from Brazil. I want to inspire, guide, and help them overcome educational challenges. 
-
-I am aware that by sharing my experiences and advocating for equitable opportunities, I will be able to amplify the voices of female scientists in LATAM region, fostering diversity, inclusion, and empowerment in the global scientific community.
-
-
-**<span style="color:#C61AAE;">A bit more about me</span>**
-
-Besides crypto, maths and computer science, I love music. I have played classical piano since I was 5 years old and I strongly believe that music is one of the most touching expressions of the human soul.
-
-Through my life experiences, I have learned we must value our sentimental expression and social empathy. 
-
-What makes you a distinguished mind is not constantly being great but doing the best with what you have and striving to better yourself, science and society. :sparkling_heart:
-
+I served as subreviewer in the following venues:
+- EUROCRYPT 2026
+- ASIACRYPT 2026
+- PKC 2027
 
 **<span style="color:#C61AAE;">Contact</span>**
 
