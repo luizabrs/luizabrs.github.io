@@ -32,9 +32,8 @@ Currently my main topics of interest are Private Information Retrieval and Priva
 **<span style="color:#C61AAE;">Service</span>**
 
 I served as subreviewer in the following venues:
-- EUROCRYPT 2026
-- ASIACRYPT 2026
-- PKC 2027
+- 2026 Eurocrypt, Asiacrypt
+- 2027 PKC
 
 **<span style="color:#C61AAE;">Contact</span>**
 
